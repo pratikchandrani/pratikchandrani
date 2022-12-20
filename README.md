@@ -1,13 +1,14 @@
 
 <p>
-<h3> Hey! I'm Pratik. Welcome to my GitHub profile! </h3>
+<p align="center">
+<h1> Hey! I'm Pratik. Welcome to my GitHub profile! </h3>
 <br>
 </h1>
 </p>
 
 <p align="center">
 <a href="https://twitter.com/pratikchandrani"><img src="https://img.shields.io/twitter/follow/pratikchandrani?style=for-the-badge&logo=twitter&logoColor=Blue" height="30" alt="Twitter" /></a>&nbsp;
-<! -- <a href="mailto:pratikchandrani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" /></a>&nbsp; -->
+<!-- <a href="mailto:pratikchandrani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" /></a>&nbsp; -->
 <a href="https://scholar.google.co.in/citations?user=JALyxVsAAAAJ&hl"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge&logoWidth=20" height="30" alt="Google Scholar" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/pratik-chandrani-phd-b550b5112/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>&nbsp;
 <a href="https://orcid.org/0000-0003-2572-0189"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" height="30" alt="ORCID" /></a>&nbsp;
