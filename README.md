@@ -17,16 +17,22 @@
  <h2 align="center">
     <p>Background</p>
     </h2>
-    <p>Ph.D., Computational Biology (Cancer Genomics, Functional Genomics, & Bioinformatics) from <a href="https://tmc.gov.in/">ACTREC-Tata Memorial Centre, Navi Mumbai</a>.</p>
+    <p>Ph.D. in Computational Biology (Cancer Genomics, Functional Genomics, & Bioinformatics) from <a href="https://tmc.gov.in/">ACTREC-Tata Memorial Centre, Navi Mumbai</a>.</p>
     <p>Main academic interest: Computational Biology, Bioinformatics, Artificial Intelligence, Fundamental Biology </p>
     <br>
 <h2 align="center">
-    <p>Genomic Analysis Toolkit</p>
+    <p>Research Experience</p>
     </h2>
-    <p>Genome Sequencing, Assembly, & Annotation, RAD-seq, RNA-seq, ATAC-seq, Hi-C, and more!</p>
+    <p>Genome Sequencing :- Whole Genome Sequencing (WGS) or Targeted Sequencing (whole exome, small panel) based Somatic & Germline Variant Identification, Copy Number Variations, Clonality, and more!</p>
+    <p>Transcriptome Sequencing :- Gene expression profiling, biological pathways, differential expression, RNAseq variants, gene fusion, small RNA, non-coding RNA, and more!</p>
+    <p>Human Pathogen Sequencing :- Pathogen Sequencing, Identification, Microbial Community, and more!</p>
+    <p>Functional Genomics :- SNParray, Pre-Clinical Characterization, RNAi, CRISPR screens, and more!</p>
+    <p>Structural Bioinformatics :- Mutant Structure Modelling, Molecular Dynamics, Small Molecule Docking, and more!</p>
+    <p>Population Genomics :- Comparative Genomics, Synteny Analysis, Hardy-Weinberg Equilibrium (HWE), and more!</p>
+    <p>Wet-lab Science :- Mammalian Cell Culture, Laboratory Animal Experimentation, and more!</p>
     <br>
  <h2 align="center">
-    <p>Coding Languages</p>
+    <p>Programming Languages</p>
     </h2>
     <p align="center">
      <a href="https://en.wikipedia.org/wiki/Shell_script"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30" alt="Shell Script" />&nbsp;</a>
