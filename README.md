@@ -1,6 +1,6 @@
 
 <p>
-<p align="center">
+<h align="center">
 <h1> Hey! I'm Pratik. Welcome to my GitHub profile! </h3>
 <br>
 </h1>
