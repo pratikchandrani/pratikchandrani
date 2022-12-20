@@ -35,6 +35,6 @@
     <a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />&nbsp;</a>
     <br><br>
 <h6>Badge Sources: Awesome Badges - https://github.com/Envoy-VC/awesome-badges and custom badges constructed using https://shields.io/</h6>
-<h7>Profile Page Inspiration: Daren Card - https://github.com/darencard</h7>
+<h6>Profile Page Template: Daren Card - https://github.com/darencard</h6>
 
 
