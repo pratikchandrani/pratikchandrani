@@ -20,6 +20,7 @@
     </h2>
     <p>Ph.D. in Computational Biology (Cancer Genomics, Functional Genomics, & Bioinformatics) from <a href="https://tmc.gov.in/">ACTREC-Tata Memorial Centre, Navi Mumbai</a>.</p>
     <p>Main academic interest: Computational Biology, Bioinformatics, Artificial Intelligence, Fundamental Biology </p>
+    <p>Please find more details here: <a href="https://tmc.gov.in/">pratikchandrani.github.io </a></p>
     <br>
 <h2 align="center">
     <p>Research Experience</p>
